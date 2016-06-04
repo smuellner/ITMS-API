@@ -1,0 +1,39 @@
+{
+    "resultCount": 1,
+    "results": [
+        {
+            "wrapperType": "track",
+            "kind": "song",
+            "artistId": 298496035,
+            "collectionId": 677375839,
+            "trackId": 677376024,
+            "artistName": "Avicii",
+            "collectionName": "True",
+            "trackName": "Wake Me Up",
+            "collectionCensoredName": "True",
+            "trackCensoredName": "Wake Me Up",
+            "artistViewUrl": "https://itunes.apple.com/us/artist/avicii/id298496035?uo=4",
+            "collectionViewUrl": "https://itunes.apple.com/us/album/wake-me-up/id677375839?i=677376024&uo=4",
+            "trackViewUrl": "https://itunes.apple.com/us/album/wake-me-up/id677375839?i=677376024&uo=4",
+            "previewUrl": "http://a93.phobos.apple.com/us/r1000/016/Music4/v4/41/50/bd/4150bd63-78ab-89bf-5bb5-0408cac1755a/mzaf_967038708454301735.plus.aac.p.m4a",
+            "artworkUrl30": "http://is4.mzstatic.com/image/thumb/Music4/v4/65/e8/16/65e816a3-3073-c640-e8c0-bd457f7f4df4/source/30x30bb.jpg",
+            "artworkUrl60": "http://is4.mzstatic.com/image/thumb/Music4/v4/65/e8/16/65e816a3-3073-c640-e8c0-bd457f7f4df4/source/60x60bb.jpg",
+            "artworkUrl100": "http://is4.mzstatic.com/image/thumb/Music4/v4/65/e8/16/65e816a3-3073-c640-e8c0-bd457f7f4df4/source/100x100bb.jpg",
+            "collectionPrice": 9.99,
+            "trackPrice": 1.29,
+            "releaseDate": "2013-09-16T07:00:00Z",
+            "collectionExplicitness": "notExplicit",
+            "trackExplicitness": "notExplicit",
+            "discCount": 1,
+            "discNumber": 1,
+            "trackCount": 12,
+            "trackNumber": 1,
+            "trackTimeMillis": 249688,
+            "country": "USA",
+            "currency": "USD",
+            "primaryGenreName": "Dance",
+            "isStreamable": true
+        }]
+}
+
+
